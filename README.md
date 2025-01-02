@@ -1,2 +1,2 @@
-# Raido_15-08-23
-Create Your Dream Travel Website from Scratch! Join us in this step-by-step tutorial as we guide you through building a stunning and interactive landing page using HTML, CSS, and Javascript.
+**Dream Travel Website Project**  
+Embark on a journey to create a captivating and interactive travel website from scratch! This project focuses on designing a stunning landing page using HTML, CSS, and JavaScript. With a step-by-step approach, you'll build a visually appealing platform featuring engaging layouts, responsive design, and smooth interactivity, perfect for showcasing dream destinations and inspiring wanderlust.
